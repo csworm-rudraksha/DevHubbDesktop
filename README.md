@@ -1,6 +1,6 @@
 # DevHubb - A Coding Profile Tracking Tool
 
-## 📌 Project Overview
+## 📌 Project Overview (in Progress)
 DevHubb is a **Java-based desktop application** designed to help developers track their coding progress across multiple platforms in one place. The application fetches **real-time coding stats** from **GitHub and LeetCode APIs**, providing a **centralized dashboard** to monitor repositories, problem-solving activity, and coding streaks. It eliminates the need for manual tracking, improving efficiency and productivity.
 
 ## 🚀 Features
@@ -18,6 +18,10 @@ DevHubb is a **Java-based desktop application** designed to help developers trac
 - **Development Tools:** IntelliJ IDEA, Eclipse IDE
 - **Version Control:** Git & GitHub
 - **Database Management:** MySQL Workbench
+
+## Sneak Peak
+![Project Screenshot](image.png)
+
 
 ## 🛠 Installation & Setup
 ### Prerequisites
